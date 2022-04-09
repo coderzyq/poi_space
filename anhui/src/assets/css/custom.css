@@ -1,0 +1,6 @@
+* {
+    font-family: fangsong;
+    --info-width: 200px;
+    --color-background: rgba(204, 203, 203, 0.9);
+    --info-height: 24px;
+}

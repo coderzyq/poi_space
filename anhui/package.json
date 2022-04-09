@@ -1,0 +1,25 @@
+{
+  "name": "cz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "amap": "^1.0.7",
+    "axios": "^0.26.1",
+    "core-js": "^3.8.3",
+    "echarts": "^5.3.1",
+    "echarts-extension-amap": "^1.10.1",
+    "echarts-wordcloud": "^2.0.0",
+    "vue": "^2.6.14",
+    "vue-amap": "^0.5.10",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-service": "^5.0.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
